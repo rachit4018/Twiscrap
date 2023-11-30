@@ -1,0 +1,9 @@
+consumer_key = 'RcfTZTRZsIJDrBUZTPlipw1YS'
+consumer_secret = 'Hf7EYarpwny3HWeWRdyeBNlnDDrM25kNMKOLDroC0cA29BXuAx'
+access_token = '1727794284370202624-q2DoawC9XdXZADu5TeBNopZGtX6RlW'
+access_secret = 'V6ZmmBTWC6CVbT4kAuBZlDHtq5OTO6PiegZ6HZLXEoLPBç'
+bearer_token = "AAAAAAAAAAAAAAAAAAAAAP0crQEAAAAAG84za9p0cLQljECmaBv2I0%2FqsH4%3DQWroS5U4GI7KNDrKpyNSC2s3NaDwMT6PQLAbCFqWSIt3iWeMfz"
+api_key = 'SKjy6cHRmYs81ds0MIGZDi8Iy'
+api_secret_key = 'hunv3opJC5nimRTG66kIZG0T6kJJI1MXW5St8zXbZSNjlLTI86'
+client_id = 'eVdGcDQ1dlh6azZ3QUVram5nRnk6MTpjaQ'
+client_secret_id = 'vbKJ2ypHnDiwFzS8TMpdmTuzB3sW0p1bgQ36QiO4ohYEsAYSxd'
