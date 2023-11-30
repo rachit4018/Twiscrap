@@ -1,10 +1,2 @@
 # Twiscrap
 Web Scraping the Twitter data
-Barier Token - AAAAAAAAAAAAAAAAAAAAAK64rAEAAAAAZ2NwHnKDeEl%2BIfiKl8mwJ0MAlfw%3DuA1Qq2kQimaFBlHmCWGUuqcUeRgELOILjqf1tkm5s3MBzJk9OS
-
-
-Access Token - 1727794284370202624-ZuKNb1mqVJ4DFKkIZLcuyiJkFbCc4v
-Access Token Secret- ZH6ckzHSBaFli64N2hc0kDAaweETGZrO4hDAx0Ke75jXw
-
-Consumer Token - T20AVCTsQKQDu80acXNroggpf
-Consumer Token Secret - wdxxJIvE45jLlwh3lMulw0sc0CySq4czDKSxQd01MESiVqUuww
